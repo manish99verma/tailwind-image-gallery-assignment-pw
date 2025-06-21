@@ -1,6 +1,6 @@
 import { defineConfig } from "vite";
 import tailwindcss from "@tailwindcss/vite";
 export default defineConfig({
-  base: "/tailwind-form-assignment/",
+  base: "/tailwind-gallery-assignment/",
   plugins: [tailwindcss()],
 });
